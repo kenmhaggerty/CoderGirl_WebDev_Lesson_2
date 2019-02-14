@@ -1,4 +1,4 @@
-# CoderGirl_WebDev
+# CoderGirl_WebDev — EXTRA PRACTICE ASSIGNMENTS
 ### Lesson 2 — Git + GitHub Practice (README.md)
 
 
