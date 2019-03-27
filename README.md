@@ -1,11 +1,9 @@
-# CoderGirl_WebDev — EXTRA PRACTICE ASSIGNMENTS
-### Lesson 2 — Git + GitHub Practice (README.md)
-
+# CoderGirl_WebDev_Lesson_2 — EXTRA PRACTICE ASSIGNMENT
 
 
 ## Assignment
 
-- [ ] **Fork** this repository. (https://github.com/kenmhaggerty/CoderGirl_WebDev)
+- [ ] **Fork** this repository. (https://github.com/kenmhaggerty/CoderGirl_WebDev_Lesson_2)
 - [ ] **Clone** your fork of this repository to your local machine (i.e., your computer).
 - [ ] **Follow the instructions** below.
 - [ ] **Push** all of your branches to your remote repository (i.e., GitHub).
@@ -15,7 +13,7 @@
 
 ## Instructions
 
-1. Switch to the `development` branch. You should have one file (`us_states.json`) inside of a folder named `Lesson 2`.
+1. Switch to the `development` branch. You should have one file (`us_states.json`) in addition to this README.
 2. Open `us_states.json` in the code/text editor of your choice (e.g., Visual Studio Code; Sublime Text; Atom). It should be **empty** (i.e., have no contents).
 3. Switch to the branch `ada_lovelace`. Verify that the file `us_states.json` now has the name and capital of every US state.
    - [ ] One US state is missing — can you figure out which one? **Add the missing information** for that state so that it follows the same format as the rest of the file.
